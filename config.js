@@ -4,17 +4,14 @@ require("@firebase/firestore")
 
 // Initialize Firebase
 var firebaseConfig = {
-    apiKey: "AIzaSyAMW87I3aehUsTmQ-LXmNvxw8QZ1e0Xwto",
-    authDomain: "bed-time-stories-805e9.firebaseapp.com",
-    databaseURL: "https://bed-time-stories-805e9.firebaseio.com",
-    projectId: "bed-time-stories-805e9",
-    storageBucket: "bed-time-stories-805e9.appspot.com",
-    messagingSenderId: "74595764582",
-    appId: "1:74595764582:web:9a930873bddda1e548e0a7",
-    measurementId: "G-1X269F7P47"
-  };
-
-
+  apiKey: "AIzaSyCQxJGpEgJU-ArvB-MMiAxESJ3ZZiiJhcw",
+  authDomain: "bedtime-e1d8c.firebaseapp.com",
+  databaseURL: "https://bedtime-e1d8c.firebaseio.com",
+  projectId: "bedtime-e1d8c",
+  storageBucket: "bedtime-e1d8c.appspot.com",
+  messagingSenderId: "699480466329",
+  appId: "1:699480466329:web:6a00d8642b894407c82908"
+};
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
 
